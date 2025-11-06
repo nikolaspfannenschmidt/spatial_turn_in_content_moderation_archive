@@ -43,8 +43,6 @@ Verify the integrity of the downloadable WACZ files.
 | **VRChat** | `vrchat_110625.wacz` | `48b3f527b5529db0dbf36ed5515dc6541c088fad252b0f5bf428a48ac373192c` |
 | **Meta Horizon Worlds** | `meta-horizon-worlds._110625.wacz` | `ee9d79971721809afbe6aa865456a66b8baf0f23ea004fd7f483235b828487ff` |
 
----
-
 ### macOS / Linux / Windows
 
 Use the following commands to verify the file integrity:
