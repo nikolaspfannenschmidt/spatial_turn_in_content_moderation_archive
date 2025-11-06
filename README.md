@@ -32,6 +32,18 @@ in an industry-standard web archive format (WACZ) for viewing in the interactive
 webpage player **ReplayWeb.page** (https://replayweb.page).
 
 ---
+## Verification
+
+Verify the integrity of the downloadable WACZ files.
+
+### Expected SHA-256 checksums
+
+| Platform | File name | SHA-256 checksum |
+|-----------|------------|------------------|
+| **VRChat** | `vrchat_110625.wacz` | `48b3f527b5529db0dbf36ed5515dc6541c088fad252b0f5bf428a48ac373192c` |
+| **Meta Horizon Worlds** | `meta-horizon-worlds._110625.wacz` | `ee9d79971721809afbe6aa865456a66b8baf0f23ea004fd7f483235b828487ff` |
+
+---
 
 ### macOS / Linux / Windows
 
