@@ -29,7 +29,7 @@ shasum -a 256 meta-horizon-worlds._110625.wacz
 
 
 
-## Archived Policy Pages from VRChat and Meta Horizon Worlds
+#### Archived Policy Pages from VRChat and Meta Horizon Worlds
 
 This repository exists solely for scholarly documentation and analysis of
 publicly accessible platform policies.
