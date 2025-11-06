@@ -20,6 +20,8 @@ The texts and materials contained within the archived web pages originate from
 VRChat Inc. and Meta Platforms Inc. and remain under their respective copyright
 and usage rights.
 
+The archived contents are provided for non-commercial scholarly analysis only, in accordance with § 60c UrhG.
+
 The repository itself (structure, file organization, metadata) is provided
 without its own license and may be used only within the scope of academic
 research, citation, and documentation.
