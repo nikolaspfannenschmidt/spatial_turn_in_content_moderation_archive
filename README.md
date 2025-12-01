@@ -1,18 +1,18 @@
 # Archived Policy Pages from VRChat and Meta Horizon Worlds
 
-This repository exists solely for scholarly documentation and analysis of
+This repository exists solely for scholarly documentation and analysis of  
 publicly accessible platform policies.
 
 ## Legal Notice
-The texts and materials contained within the archived web pages originate from
-VRChat Inc. and Meta Platforms Inc. and remain under their respective copyright
+The texts and materials contained within the archived web pages originate from  
+VRChat Inc. and Meta Platforms Inc. and remain under their respective copyright  
 and usage rights.
 
-The archived contents are provided for non-commercial scholarly analysis only,
+The archived contents are provided for non-commercial scholarly analysis only,  
 in accordance with § 60c UrhG.
 
-The repository itself (structure, file organization, metadata) is provided
-without its own license and may be used only within the scope of academic
+The repository itself (structure, file organization, metadata) is provided  
+without its own license and may be used only within the scope of academic  
 research, citation, and documentation.
 
 No commercial use. No redistribution of the archived contents.
@@ -21,17 +21,18 @@ No commercial use. No redistribution of the archived contents.
 
 ## Download
 
-- **VRChat Policy Archive (WACZ, 4.7 MB)**  
-  [Download from GitHub Releases](https://github.com/nikolaspfannenschmidt/spatial_turn_in_content_moderation_archive/releases/download/v1.0/vrchat_110625.wacz)
+- **VRChat Policy Archive (WACZ, 11.1 MB)**  
+  [Download from GitHub Releases](https://github.com/nikolaspfannenschmidt/spatial_turn_in_content_moderation_archive/releases/download/v1.0/vrchat_120125.wacz)
 
-- **Meta Horizon Worlds Policy Archive (WACZ, 107 MB)**  
-  [Download from GitHub Releases](https://github.com/nikolaspfannenschmidt/spatial_turn_in_content_moderation_archive/releases/download/v1.0/meta-horizon-worlds._110625.wacz)
+- **Meta Horizon Worlds Policy Archive (WACZ, 92.1 MB)**  
+  [Download from GitHub Releases](https://github.com/nikolaspfannenschmidt/spatial_turn_in_content_moderation_archive/releases/download/v1.0/meta-horizon-worlds_120125.wacz)
 
-Both platform archive files can be downloaded from this public GitHub repository
-in an industry-standard web archive format (WACZ) for viewing in the interactive
+Both platform archive files can be downloaded from this public GitHub repository  
+in an industry-standard web archive format (WACZ) for viewing in the interactive  
 webpage player **ReplayWeb.page** (https://replayweb.page).
 
 ---
+
 ## Verification
 
 Verify the integrity of the downloadable WACZ files.
@@ -40,8 +41,8 @@ Verify the integrity of the downloadable WACZ files.
 
 | Platform | File name | SHA-256 checksum |
 |-----------|------------|------------------|
-| **VRChat** | `vrchat_110625.wacz` | `48b3f527b5529db0dbf36ed5515dc6541c088fad252b0f5bf428a48ac373192c` |
-| **Meta Horizon Worlds** | `meta-horizon-worlds._110625.wacz` | `ee9d79971721809afbe6aa865456a66b8baf0f23ea004fd7f483235b828487ff` |
+| **VRChat** | `vrchat_120125.wacz` | `3bddaf202644c8fdef172127868d1feda3ff52dc6a4f600d99faf6ef7c0023df` |
+| **Meta Horizon Worlds** | `meta-horizon-worlds_120125.wacz` | `80da55cec8fd2770c496f1aa54076d6f84867c037e622d686b2b265e4d14d93c` |
 
 ### macOS / Linux / Windows
 
@@ -49,14 +50,13 @@ Use the following commands to verify the file integrity:
 
 ```bash
 # macOS / Linux
-shasum -a 256 vrchat_110625.wacz
-shasum -a 256 meta-horizon-worlds._110625.wacz
+shasum -a 256 vrchat_120125.wacz
+shasum -a 256 meta-horizon-worlds_120125.wacz
 
 # or using sha256sum
-sha256sum vrchat_110625.wacz
-sha256sum meta-horizon-worlds._110625.wacz
+sha256sum vrchat_120125.wacz
+sha256sum meta-horizon-worlds_120125.wacz
 
 # Windows (PowerShell)
-Get-FileHash .\vrchat_110625.wacz -Algorithm SHA256
-Get-FileHash .\meta-horizon-worlds._110625.wacz -Algorithm SHA256
-
+Get-FileHash .\vrchat_120125.wacz -Algorithm SHA256
+Get-FileHash .\meta-horizon-worlds_120125.wacz -Algorithm SHA256
