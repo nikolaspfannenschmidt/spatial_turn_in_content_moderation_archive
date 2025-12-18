@@ -22,10 +22,10 @@ No commercial use. No redistribution of the archived contents.
 ## Download
 
 - **VRChat Policy Archive (WACZ, 11.1 MB)**  
-  Download from GitHub Releases
+  [Download from GitHub Releases](https://github.com/nikolaspfannenschmidt/spatial_turn_in_content_moderation_archive/releases/download/v1.0/vrchat_120125.wacz)
 
 - **Meta Horizon Worlds Policy Archive (WACZ, 92.1 MB)**  
-  Download from GitHub Releases
+  [Download from GitHub Releases](https://github.com/nikolaspfannenschmidt/spatial_turn_in_content_moderation_archive/releases/download/v1.0/meta-horizon-worlds_120125.wacz)
 
 Both platform archive files can be downloaded from this public GitHub repository
 in an industry-standard web archive format (WACZ) for viewing in the interactive
@@ -66,17 +66,4 @@ Verify the integrity of the downloadable WACZ files.
 
 ### macOS / Linux / Windows
 
-Use the following commands to verify the file integrity:
-
-```bash
-# macOS / Linux
-shasum -a 256 vrchat_120125.wacz
-shasum -a 256 meta-horizon-worlds_120125.wacz
-
-# or using sha256sum
-sha256sum vrchat_120125.wacz
-sha256sum meta-horizon-worlds_120125.wacz
-
-# Windows (PowerShell)
-Get-FileHash .\vrchat_120125.wacz -Algorithm SHA256
-Get-FileHash .\meta-horizon-worlds_120125.wacz -Algorithm SHA256
+Use the f
