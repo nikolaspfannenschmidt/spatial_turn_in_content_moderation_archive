@@ -64,6 +64,3 @@ Verify the integrity of the downloadable WACZ files.
 | **VRChat** | `vrchat_120125.wacz` | `3bddaf202644c8fdef172127868d1feda3ff52dc6a4f600d99faf6ef7c0023df` |
 | **Meta Horizon Worlds** | `meta-horizon-worlds_120125.wacz` | `80da55cec8fd2770c496f1aa54076d6f84867c037e622d686b2b265e4d14d93c` |
 
-### macOS / Linux / Windows
-
-Use the f
