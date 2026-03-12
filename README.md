@@ -65,17 +65,17 @@ Verify the integrity of the downloadable WACZ files.
 | **Meta Horizon Worlds** | `meta-horizon-worlds_120125.wacz` | `80da55cec8fd2770c496f1aa54076d6f84867c037e622d686b2b265e4d14d93c` |
 
 
-## macOS / Linux / Windows
+# macOS / Linux / Windows
 Use the following commands to verify the file integrity:
 
-# macOS / Linux
+## macOS / Linux
 shasum -a 256 vrchat_120125.wacz
 shasum -a 256 meta-horizon-worlds_120125.wacz
 
-# or using sha256sum
+## or using sha256sum
 sha256sum vrchat_120125.wacz
 sha256sum meta-horizon-worlds_120125.wacz
 
-# Windows (PowerShell)
+## Windows (PowerShell)
 Get-FileHash .\vrchat_120125.wacz -Algorithm SHA256
 Get-FileHash .\meta-horizon-worlds_120125.wacz -Algorithm SHA256
