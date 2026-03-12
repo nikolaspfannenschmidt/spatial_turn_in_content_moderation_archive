@@ -5,17 +5,17 @@ publicly accessible platform policies.
 
 ## Legal Notice
 The texts and materials contained within the archived web pages originate from
-VRChat Inc. and Meta Platforms Inc. and remain under their respective copyright
+VRChat Inc. and Meta Platforms Inc. and remain under copyright
 and usage rights.
 
 The archived contents are provided for non-commercial scholarly analysis only,
-in accordance with § 60c UrhG.
+in accordance with § 60c UrhG for scientific purposes.
 
 The repository itself (structure, file organization, metadata) is provided
 without its own license and may be used only within the scope of academic
 research, citation, and documentation.
 
-No commercial use. No redistribution of the archived contents.
+No commercial use. No redistribution of the archived contents outside academic scholarship.
 
 ---
 
@@ -65,7 +65,7 @@ Verify the integrity of the downloadable WACZ files.
 | **Meta Horizon Worlds** | `meta-horizon-worlds_120125.wacz` | `80da55cec8fd2770c496f1aa54076d6f84867c037e622d686b2b265e4d14d93c` |
 
 
-macOS / Linux / Windows
+##macOS / Linux / Windows
 Use the following commands to verify the file integrity:
 
 # macOS / Linux
