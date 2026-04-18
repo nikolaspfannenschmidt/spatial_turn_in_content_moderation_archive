@@ -21,6 +21,9 @@ No commercial use. No redistribution of the archived contents outside academic s
 
 ## Download
 
+- **Coding Table (PDF, 4.82 MB)**
+  [Download from Github Repository](https://github.com/nikolaspfannenschmidt/spatial_turn_in_content_moderation_archive/blob/main/Coding%20Table%20TaSiSXR.pdf)
+
 - **VRChat Policy Archive (WACZ, 11.1 MB)**  
   [Download from GitHub Releases](https://github.com/nikolaspfannenschmidt/spatial_turn_in_content_moderation_archive/releases/download/v1.0/vrchat_120125.wacz)
 
