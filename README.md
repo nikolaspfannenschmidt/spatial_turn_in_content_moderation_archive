@@ -71,7 +71,7 @@ Verify the integrity of the downloadable WACZ files.
 Use the following commands to verify the file integrity:
 
 ## macOS / Linux
-shasum -a 256 vrchat_1110625.wacz
+shasum -a 256 vrchat_110625.wacz
 shasum -a 256 meta-horizon-worlds_110625.wacz
 
 ## or using sha256sum
