@@ -42,16 +42,16 @@ Two VRChat Help Center pages could repeatedly not be reliably archived as WACZ u
 Webrecorder-based capture due to technical restrictions of the hosting setup, which
 prevented generating a stable, complete capture.
 
-These pages are therefore documented via the **Internet Archive Wayback Machine**
+The used pages are therefore documented via the **Internet Archive Wayback Machine**
 as an alternative archival source:
 
-- **Safety Resources For Players (VRChat Help Center, published 05/28/2025, accessed 08/10/2025)**  
+- **Safety Resources For Players (VRChat Help Center, published 05/28/2025, accessed 10/31/2025)**  
   Source: https://help.vrchat.com/hc/en-us/articles/33302819755539-Safety-Resources-For-Players  
-  Wayback snapshot: https://web.archive.org/web/20250810213246/https://help.vrchat.com/hc/en-us/articles/33302819755539-Safety-Resources-For-Players
+  Wayback snapshot: https://web.archive.org/web/20251031185333/https://help.vrchat.com/hc/en-us/articles/33302819755539-Safety-Resources-For-Players
 
-- **Safety Resources For Parents (VRChat Help Center, published 09/11/2024, accessed 08/10/2025)**  
+- **Safety Resources For Parents (VRChat Help Center, published 09/11/2024, accessed 10/31/2025)**  
   Source: https://help.vrchat.com/hc/en-us/articles/33301610887443-Safety-Resources-For-Parents  
-  Wayback snapshot: https://web.archive.org/web/20250810225708/https://help.vrchat.com/hc/en-us/articles/33301610887443-Safety-Resources-For-Parents
+  Wayback snapshot: https://web.archive.org/web/20251031184034/https://help.vrchat.com/hc/en-us/articles/33301610887443-Safety-Resources-For-Parents
 
 ---
 
